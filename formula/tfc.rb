@@ -5,7 +5,7 @@ class Tfc < Formula
   homepage "https://github.com/bmv3cg/tf-crud"
   url "https://github.com/bmv3cg/tf-crud/releases/download/#{VERSION}/tfc-ws-manager"
   version VERSION
-  sha256 "851ceee87edd0411cfc1e14957c5b6216e75a8cec3d027ec7cc2d9f165bc9f62"
+  sha256 "f1f2ce7e0c67ececdee3a9b91d773137971ec29e6c81c675a6e2ec414f85f9b0"
   def install
     bin.install "tfc-ws-manager"
   end
