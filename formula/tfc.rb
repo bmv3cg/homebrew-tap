@@ -1,5 +1,5 @@
 class Tfc < Formula
-  VERSION = "0.0.1".freeze
+  VERSION = "0.0.2".freeze
 
   desc "Terraform cloud workspace manager"
   homepage "https://github.com/bmv3cg/tf-crud"
